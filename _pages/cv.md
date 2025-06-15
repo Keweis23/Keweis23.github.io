@@ -27,10 +27,8 @@ Work experience
 * **Summer 2024: Research Assistant**  
   _The Chinese University of Hong Kong, Shenzhen_  
   **Duties included:**  
-  - Reviewed, tested, and merged pull requests across multiple GitHub repositories  
-  - Performed in-depth code reviews to enforce coding standards, improve performance, and prevent regressions  
-  - Resolved merge conflicts and coordinated with contributors to streamline the development workflow  
-  - Maintained CI/CD pipelines to ensure build stability and automatic deployment of documentation  
+  - Investigated fairness challenges in large language model outputs and developed evaluation pipelines to quantify bias across demographic groups.
+  - Fine-tuned Large Language Models (e.g. LLaMA3, ChatGLM) on curated, balanced corpora to enhance representation of underrepresented subpopulations.
   **Supervisor:** Tongxin Li
 
 * **Winter 2023: Research Assistant**  
