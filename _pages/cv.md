@@ -56,10 +56,7 @@ Work experience
 
 Technical Skills
 ======
-* **Programming Languages**: Python, C/C++, R  
-* **Frameworks & Libraries**  
-  * **Deep Learning**: PyTorch, TensorFlow, PyTorch Lightning, DeepSpeed  
-  * **Graphics & Vision**: OpenCV, Open3D, CGAL, Blender Python API  
-  * **Scientific Computing**: NumPy, SciPy, Pandas, Matplotlib  
-* **Tools & Platforms**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm  
+- **Languages**: Python, C/C++, R
+- **Course**: Computer Graphics, Computer Vision, Partial Differential Equation, Deep Learning, Real Analysis
+- **Developer Tools**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm
 
