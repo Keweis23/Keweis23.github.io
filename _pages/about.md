@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hello! I’m **Kewei**, currently pursuing my Master’s degree at **The University of Hong Kong**. Prior to that, I graduated from "The Chinese University of Hong Kong, Shenzhen". My research mainly concentrates on 3D vision and graphics. I currently work on topics about 3D AIGC including 3D neural representations, 3D generative models, and 3D-aware video generation.
+Hello! I’m **Kewei**, currently pursuing my Master’s degree at **The University of Hong Kong**. Prior to that, I graduated from **The Chinese University of Hong Kong, Shenzhen**. My research mainly concentrates on 3D vision and graphics. I currently work on topics about 3D AIGC including 3D neural representations, 3D generative models, and 3D-aware video generation.
 
 ## Research Focus
 
