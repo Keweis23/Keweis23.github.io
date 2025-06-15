@@ -14,6 +14,13 @@ Education
 * M.S. in Hong Kong, The University of Hong Kong, 2025 December (expected)
 * B.S. in Shen Zhen, The Chinese University of Hong Kong, Shenzhen, 2024 June
 
+Publications
+======
+<ul>
+  <li>Jiabao Lei<sup>*</sup>, <strong>Kewei Shi</strong><sup>*</sup>, Zhihao Liang, Kui Jia. “Progressive Auto-Regressive Mesh Generation via Transformer.” <em>Under Review</em>.</li>
+  <li>Qi Xin<sup>*</sup>, Hai Huang<sup>*</sup>, Chenyu Li, <strong>Kewei Shi</strong>, Zhaoyu Zhang. “Photonic Swin Transformer for Automated and Efficient Prediction of PCSEL.” <em>Under Review</em>.</li>
+</ul>
+
 Work experience
 ======
 * **Fall 2024: Research Assistant**  
@@ -55,11 +62,4 @@ Technical Skills
   * **Graphics & Vision**: OpenCV, Open3D, CGAL, Blender Python API  
   * **Scientific Computing**: NumPy, SciPy, Pandas, Matplotlib  
 * **Tools & Platforms**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm  
-
-Publications
-======
-<ul>
-  <li>Jiabao Lei<sup>*</sup>, <strong>Kewei Shi</strong><sup>*</sup>, Zhihao Liang, Kui Jia. “Progressive Auto-Regressive Mesh Generation via Transformer.” <em>Under Review</em>.</li>
-  <li>Qi Xin<sup>*</sup>, Hai Huang<sup>*</sup>, Chenyu Li, <strong>Kewei Shi</strong>, Zhaoyu Zhang. “Photonic Swin Transformer for Automated and Efficient Prediction of PCSEL.” <em>Under Review</em>.</li>
-</ul>
 
