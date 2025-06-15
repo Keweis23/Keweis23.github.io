@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Fall 2024: Research Assistant
+  * The Chinese University of Hong Kong, Shen Zhen
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Kui Jia
 
 * Fall 2015: Research Assistant
   * GitHub University
