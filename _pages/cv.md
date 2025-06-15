@@ -29,12 +29,12 @@ Work experience
 * Winter 2023: Research Assistant
   * The Univerisity of Hong Kong
   * Duties included: Tagging issues
-  * Supervisor: Lu Fangzhou
+  * Supervisor: Fangzhou Lu
 
 * Summer 2023: Trading Intern
   * China International Capital Corporation Limited
   * Duties included: Tagging issues
-  * Mentor: Qiu Huan
+  * Mentor: Huan Qiu
 
 Skills
 ======
@@ -51,10 +51,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Internship
-======
 
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
