@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Hong Kong, The University of Hong Kong, 2025 December (expected)
-* B.S. in Shen Zhen, The Chinese University of Hong Kong, Shen Zhen 2024 June
+* B.S. in Shen Zhen, The Chinese University of Hong Kong, Shenzhen, 2024 June
 
 Work experience
 ======
