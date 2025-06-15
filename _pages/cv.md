@@ -21,16 +21,21 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: Kui Jia
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Summer 2024: Research Assistant
+  * The Chinese University of Hong Kong, Shen Zhen
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Tongxin Li
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Winter 2023: Research Assistant
+  * The Univerisity of Hong Kong
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Lu Fangzhou
+
+* Summer 2023: Trading Intern
+  * China International Capital Corporation Limited
+  * Duties included: Tagging issues
+  * Mentor: Qiu Huan
+
 Skills
 ======
 * Skill 1
