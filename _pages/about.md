@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hello! I’m **Kewei**, currently pursuing my Master’s degree in Computer Science at **The University of Hong Kong**.
+Hello! I’m **Kewei**, currently pursuing my Master’s degree at **The University of Hong Kong**.
 
 ## Research Focus
 
