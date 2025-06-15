@@ -9,25 +9,7 @@ redirect_from:
 
 # About Me
 
-Hello! I’m **Kewei**, currently pursuing my Master’s degree at **The University of Hong Kong**.
-
-## Research Focus
-
-- ### Generative Models (2D & 3D)  
-  Designing and training models that can synthesize realistic images, point clouds, and meshes—bridging the gap between data-driven deep learning and traditional graphics pipelines.
-
-- ### Shape Representation  
-  Investigating compact, expressive ways to encode geometry (e.g., implicit functions, signed distance fields, neural radiance fields) so that 3D objects can be stored, manipulated, and rendered with high fidelity.
-
-- ### Numerical Methods for PDEs  
-  Applying finite-difference, finite-element, and spectral techniques to solve partial differential equations arising in physics-based simulation, geometry processing, and volumetric reconstruction.
-
-## Broader Interests
-
-- **Computer Vision & Graphics**: From image understanding to photorealistic rendering  
-- **Artificial Intelligence**: Exploring reinforcement learning, self-supervised learning, and emerging LLM/vision hybrids  
-- **Electronics & Embedded Systems**: Prototyping sensors and hardware accelerators for real-time perception  
-- **AI for Physics**: Delving into the mathematical foundations of the universe and computational astrophysics  
+Hello! I’m **Kewei**, currently pursuing my Master’s degree at **The University of Hong Kong**. Prior to that, I graduated from "The Chinese University of Hong Kong, Shenzhen". My research mainly concentrates on 3D vision and graphics. I currently work on topics about 3D AIGC including 3D neural representations, 3D generative models, and 3D-aware video generation.
 
 ## Let’s Connect
 
