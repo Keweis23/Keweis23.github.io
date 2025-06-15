@@ -27,7 +27,7 @@ Hello! I’m **Kewei**, currently pursuing my Master’s degree in Computer Scie
 - **Computer Vision & Graphics**: From image understanding to photorealistic rendering  
 - **Artificial Intelligence**: Exploring reinforcement learning, self-supervised learning, and emerging LLM/vision hybrids  
 - **Electronics & Embedded Systems**: Prototyping sensors and hardware accelerators for real-time perception  
-- **Physics & Cosmology**: Delving into the mathematical foundations of the universe and computational astrophysics  
+- **AI for Physics**: Delving into the mathematical foundations of the universe and computational astrophysics  
 
 ## Let’s Connect
 
