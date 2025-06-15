@@ -31,6 +31,6 @@ Hello! I’m **Kewei**, currently pursuing my Master’s degree in Computer Scie
 
 ## Let’s Connect
 
-I thrive on interdisciplinary collaboration and love discussing novel ideas—whether it’s a new architecture for mesh generation, a faster solver for time-dependent PDEs, or the next frontier in embodied AI.  
-Feel free to reach out via email: **your.email@hku.hk**  
+I thrive on interdisciplinary collaboration and love discussing novel ideas—whether it’s a new architecture for mesh generation, a faster solver for time-dependent PDEs.  
+Feel free to reach out via email: **kewei.shi@connect.hku.hk**  
 
