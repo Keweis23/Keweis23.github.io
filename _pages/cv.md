@@ -61,11 +61,7 @@ Technical Skills
 Publications
 ======
 <ul>
-  <li>Jiabao Lei<sup>*</sup>, <strong>Kewei Shi</strong><sup>*</sup>, Zhihao Liang, Kui Jia. “Progressive Auto-Regressive Mesh Generation via Transformer.” <em>Under Review at NeurIPS 2025</em>.</li>
-  <li>Qi Xin<sup>*</sup>, Hai Huang<sup>*</sup>, Chenyu Li, <strong>Kewei Shi</strong>, Zhaoyu Zhang. “Photonic Swin Transformer for Automated and Efficient Prediction of PCSEL.” <em>Under Review at Nature Communications</em>.</li>
+  <li>Jiabao Lei<sup>*</sup>, <strong>Kewei Shi</strong><sup>*</sup>, Zhihao Liang, Kui Jia. “Progressive Auto-Regressive Mesh Generation via Transformer.” <em>Under Review</em>.</li>
+  <li>Qi Xin<sup>*</sup>, Hai Huang<sup>*</sup>, Chenyu Li, <strong>Kewei Shi</strong>, Zhaoyu Zhang. “Photonic Swin Transformer for Automated and Efficient Prediction of PCSEL.” <em>Under Review</em>.</li>
 </ul>
 
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
